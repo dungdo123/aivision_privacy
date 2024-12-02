@@ -1,0 +1,4 @@
+baby: 0-2
+young:3-39
+midlle:40-59
+old:60-99

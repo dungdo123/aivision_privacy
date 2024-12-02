@@ -1,0 +1,5 @@
+baby: 0-2
+kids:3-15
+young:15-35
+midlle:35-59
+old:60-99
