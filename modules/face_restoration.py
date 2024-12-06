@@ -4,7 +4,6 @@ from unittest.mock import inplace
 import cv2
 import torch
 from PIL.ImageOps import scale
-from tensorflow.python.ops.gen_io_ops import restore
 
 from facelib.utils.face_restoration_helper import FaceRestoreHelper
 from facelib.utils.misc import is_gray
