@@ -13,7 +13,7 @@ import copy
 
 # Input setting
 # input params setting
-SOURCE_FACE_PATH = "data/source_faces"
+SOURCE_FACE_PATH = "data/source_face"
 SOURCE_FACE_CLASS = "data/source_face_classification"
 SWAP_FACE_MODEL = "models/swapface/aivision_swapface_v1.onnx"
 FACE_RESTORE = False
